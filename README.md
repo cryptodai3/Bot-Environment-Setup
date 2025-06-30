@@ -48,7 +48,7 @@ sudo apt install python3 python3-pip
 ### 4. Install Java (OpenJDK 17+)
 
 ```bash
-sudo apt install openjdk-17-jdk
+sudo apt install openjdk-21-jdk
 ```
 
 ### 5. Install Node.js + npm
@@ -94,7 +94,7 @@ pip install --upgrade pip
 ### 4. Install Java (OpenJDK 17)
 
 ```bash
-pkg install openjdk-17
+pkg install openjdk-21
 ```
 
 ### 5. Install Node.js + npm
