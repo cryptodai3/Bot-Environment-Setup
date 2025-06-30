@@ -56,8 +56,13 @@ sudo apt install openjdk-17-jdk
 ```bash
 sudo apt install nodejs npm
 ```
+### 6. Install nano :
+```bash
+sudo apt update
+sudo apt install nano
+```
 
-### 6. Optional: Curl, Wget, Unzip
+### 7. Optional: Curl, Wget, Unzip
 
 ```bash
 sudo apt install curl wget unzip
@@ -98,7 +103,15 @@ pkg install openjdk-17
 pkg install nodejs
 ```
 
-### 6. Optional Tools
+### 6. Install nano in Termux or UserLAnd
+
+For Termux:
+```bash
+pkg update
+pkg install nano
+```
+
+### 7. Optional Tools
 
 ```bash
 pkg install curl wget unzip
